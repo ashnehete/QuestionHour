@@ -1,0 +1,7 @@
+What is the capital of Brazil?
+1 San Jose.
+2 San Salvador.
+3 Brasilia.
+4 Buenous Aires.
+It is similar to the country name.
+3

@@ -1,0 +1,7 @@
+Leonardo DaVinci was not a:-
+1 Painter
+2 Architect
+3 Scientist
+4 Musician
+He was famous for his works. Mona Lisa and Veruvian Man.
+4
